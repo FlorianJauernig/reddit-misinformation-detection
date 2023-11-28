@@ -1,5 +1,4 @@
-# reddit-misinformation-detection
-Reddit False Information Detection Project
+# Reddit False Information Detection 
 
 ### Goals
 In this project, we want to find out if if an algorithm trained on existing fake news datasets is suitable for detecting misinformation in the quite specific type of content posted on Reddit. To assess the predictions made by our Machine Learning model, we check the online status of the streamed content exactly one week after it was posted. Our four areas of interest and main questions / goals are:
